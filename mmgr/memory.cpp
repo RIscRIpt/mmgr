@@ -3,6 +3,7 @@
 
 #include <vector>
 #include <algorithm>
+#include <system_error>
 
 using namespace mmgr;
 
